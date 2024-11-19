@@ -36,21 +36,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomExceptionDemo", "Cust
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsyncAwaitDemo", "AsyncAwaitDemo\AsyncAwaitDemo.csproj", "{D7660888-6EA7-4F34-BFDC-087AA54971C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegteDemo", "DelegteDemo\DelegteDemo.csproj", "{5923A025-7A17-48DC-A04C-710CA6B6EEB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegteDemo", "DelegteDemo\DelegteDemo.csproj", "{5923A025-7A17-48DC-A04C-710CA6B6EEB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallbackAndDelegate", "CallbackAndDelegate\CallbackAndDelegate.csproj", "{BF351246-C9A7-4617-A086-E88DCBBB1364}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CallbackAndDelegate", "CallbackAndDelegate\CallbackAndDelegate.csproj", "{BF351246-C9A7-4617-A086-E88DCBBB1364}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertiesDemo", "PropertiesDemo\PropertiesDemo.csproj", "{B65656CD-D918-4570-B8AF-41065620FDC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PropertiesDemo", "PropertiesDemo\PropertiesDemo.csproj", "{B65656CD-D918-4570-B8AF-41065620FDC8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VarDemo", "VarDemo\VarDemo.csproj", "{19F9E4E7-C1CF-4948-B193-CBCF3BF587B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VarDemo", "VarDemo\VarDemo.csproj", "{19F9E4E7-C1CF-4948-B193-CBCF3BF587B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayListDemo", "ArrayListDemo\ArrayListDemo.csproj", "{A62F04AE-B9F9-4306-BB3B-DC57E560A7CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayListDemo", "ArrayListDemo\ArrayListDemo.csproj", "{A62F04AE-B9F9-4306-BB3B-DC57E560A7CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListDemo", "ListDemo\ListDemo.csproj", "{6937A314-0DF3-437A-88F3-B4096D2D6519}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListDemo", "ListDemo\ListDemo.csproj", "{6937A314-0DF3-437A-88F3-B4096D2D6519}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryDemo", "DictionaryDemo\DictionaryDemo.csproj", "{562CAB91-B5D6-48B7-8895-78BFE6F2E7F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DictionaryDemo", "DictionaryDemo\DictionaryDemo.csproj", "{562CAB91-B5D6-48B7-8895-78BFE6F2E7F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackAndQueue", "StackAndQueue\StackAndQueue.csproj", "{FBAA7377-1889-41AA-BF1D-7A4E9C7C36A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StackAndQueue", "StackAndQueue\StackAndQueue.csproj", "{FBAA7377-1889-41AA-BF1D-7A4E9C7C36A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqDemos", "LinqDemos\LinqDemos.csproj", "{A36E784B-B7F0-48C4-9957-44A10E7292E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "ExtensionMethods\ExtensionMethods.csproj", "{2E734286-A7C3-4B36-AE7C-848197ED26D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -146,6 +150,14 @@ Global
 		{FBAA7377-1889-41AA-BF1D-7A4E9C7C36A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBAA7377-1889-41AA-BF1D-7A4E9C7C36A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBAA7377-1889-41AA-BF1D-7A4E9C7C36A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A36E784B-B7F0-48C4-9957-44A10E7292E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A36E784B-B7F0-48C4-9957-44A10E7292E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A36E784B-B7F0-48C4-9957-44A10E7292E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A36E784B-B7F0-48C4-9957-44A10E7292E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E734286-A7C3-4B36-AE7C-848197ED26D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E734286-A7C3-4B36-AE7C-848197ED26D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E734286-A7C3-4B36-AE7C-848197ED26D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E734286-A7C3-4B36-AE7C-848197ED26D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

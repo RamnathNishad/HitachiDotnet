@@ -1,0 +1,15 @@
+D:\HitachiDemos\HitachiDotnet\CSPrjs\LinqDemos\bin\Debug\net8.0\LinqDemos.exe
+D:\HitachiDemos\HitachiDotnet\CSPrjs\LinqDemos\bin\Debug\net8.0\LinqDemos.deps.json
+D:\HitachiDemos\HitachiDotnet\CSPrjs\LinqDemos\bin\Debug\net8.0\LinqDemos.runtimeconfig.json
+D:\HitachiDemos\HitachiDotnet\CSPrjs\LinqDemos\bin\Debug\net8.0\LinqDemos.dll
+D:\HitachiDemos\HitachiDotnet\CSPrjs\LinqDemos\bin\Debug\net8.0\LinqDemos.pdb
+D:\HitachiDemos\HitachiDotnet\CSPrjs\LinqDemos\obj\Debug\net8.0\LinqDemos.GeneratedMSBuildEditorConfig.editorconfig
+D:\HitachiDemos\HitachiDotnet\CSPrjs\LinqDemos\obj\Debug\net8.0\LinqDemos.AssemblyInfoInputs.cache
+D:\HitachiDemos\HitachiDotnet\CSPrjs\LinqDemos\obj\Debug\net8.0\LinqDemos.AssemblyInfo.cs
+D:\HitachiDemos\HitachiDotnet\CSPrjs\LinqDemos\obj\Debug\net8.0\LinqDemos.csproj.CoreCompileInputs.cache
+D:\HitachiDemos\HitachiDotnet\CSPrjs\LinqDemos\obj\Debug\net8.0\LinqDemos.sourcelink.json
+D:\HitachiDemos\HitachiDotnet\CSPrjs\LinqDemos\obj\Debug\net8.0\LinqDemos.dll
+D:\HitachiDemos\HitachiDotnet\CSPrjs\LinqDemos\obj\Debug\net8.0\refint\LinqDemos.dll
+D:\HitachiDemos\HitachiDotnet\CSPrjs\LinqDemos\obj\Debug\net8.0\LinqDemos.pdb
+D:\HitachiDemos\HitachiDotnet\CSPrjs\LinqDemos\obj\Debug\net8.0\LinqDemos.genruntimeconfig.cache
+D:\HitachiDemos\HitachiDotnet\CSPrjs\LinqDemos\obj\Debug\net8.0\ref\LinqDemos.dll

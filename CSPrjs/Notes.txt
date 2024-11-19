@@ -105,3 +105,22 @@ event-handling or notifications in asynchronouse execution model.
 
 
 
+
+
+ LINQ(Language Integrated Query)
+ -SQL---SQL Queries
+ -Xml---XQuery
+ -Objects(Collections)
+
+ LINQ+EF => DML + Query
+
+ System.Linq
+
+ Two syntax=>
+ 1) using extension methods:-  
+ 2) using operators:-select, from , and, where etc
+
+
+
+
+

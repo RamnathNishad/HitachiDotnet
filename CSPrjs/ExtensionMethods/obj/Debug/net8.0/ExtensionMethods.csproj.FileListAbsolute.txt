@@ -1,0 +1,15 @@
+D:\HitachiDemos\HitachiDotnet\CSPrjs\ExtensionMethods\bin\Debug\net8.0\ExtensionMethods.exe
+D:\HitachiDemos\HitachiDotnet\CSPrjs\ExtensionMethods\bin\Debug\net8.0\ExtensionMethods.deps.json
+D:\HitachiDemos\HitachiDotnet\CSPrjs\ExtensionMethods\bin\Debug\net8.0\ExtensionMethods.runtimeconfig.json
+D:\HitachiDemos\HitachiDotnet\CSPrjs\ExtensionMethods\bin\Debug\net8.0\ExtensionMethods.dll
+D:\HitachiDemos\HitachiDotnet\CSPrjs\ExtensionMethods\bin\Debug\net8.0\ExtensionMethods.pdb
+D:\HitachiDemos\HitachiDotnet\CSPrjs\ExtensionMethods\obj\Debug\net8.0\ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\HitachiDemos\HitachiDotnet\CSPrjs\ExtensionMethods\obj\Debug\net8.0\ExtensionMethods.AssemblyInfoInputs.cache
+D:\HitachiDemos\HitachiDotnet\CSPrjs\ExtensionMethods\obj\Debug\net8.0\ExtensionMethods.AssemblyInfo.cs
+D:\HitachiDemos\HitachiDotnet\CSPrjs\ExtensionMethods\obj\Debug\net8.0\ExtensionMethods.csproj.CoreCompileInputs.cache
+D:\HitachiDemos\HitachiDotnet\CSPrjs\ExtensionMethods\obj\Debug\net8.0\ExtensionMethods.sourcelink.json
+D:\HitachiDemos\HitachiDotnet\CSPrjs\ExtensionMethods\obj\Debug\net8.0\ExtensionMethods.dll
+D:\HitachiDemos\HitachiDotnet\CSPrjs\ExtensionMethods\obj\Debug\net8.0\refint\ExtensionMethods.dll
+D:\HitachiDemos\HitachiDotnet\CSPrjs\ExtensionMethods\obj\Debug\net8.0\ExtensionMethods.pdb
+D:\HitachiDemos\HitachiDotnet\CSPrjs\ExtensionMethods\obj\Debug\net8.0\ExtensionMethods.genruntimeconfig.cache
+D:\HitachiDemos\HitachiDotnet\CSPrjs\ExtensionMethods\obj\Debug\net8.0\ref\ExtensionMethods.dll
