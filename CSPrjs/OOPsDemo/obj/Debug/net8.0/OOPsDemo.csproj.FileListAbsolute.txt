@@ -1,0 +1,14 @@
+D:\HitachiDemos\CSPrjs\OOPsDemo\bin\Debug\net8.0\OOPsDemo.exe
+D:\HitachiDemos\CSPrjs\OOPsDemo\bin\Debug\net8.0\OOPsDemo.deps.json
+D:\HitachiDemos\CSPrjs\OOPsDemo\bin\Debug\net8.0\OOPsDemo.runtimeconfig.json
+D:\HitachiDemos\CSPrjs\OOPsDemo\bin\Debug\net8.0\OOPsDemo.dll
+D:\HitachiDemos\CSPrjs\OOPsDemo\bin\Debug\net8.0\OOPsDemo.pdb
+D:\HitachiDemos\CSPrjs\OOPsDemo\obj\Debug\net8.0\OOPsDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\HitachiDemos\CSPrjs\OOPsDemo\obj\Debug\net8.0\OOPsDemo.AssemblyInfoInputs.cache
+D:\HitachiDemos\CSPrjs\OOPsDemo\obj\Debug\net8.0\OOPsDemo.AssemblyInfo.cs
+D:\HitachiDemos\CSPrjs\OOPsDemo\obj\Debug\net8.0\OOPsDemo.csproj.CoreCompileInputs.cache
+D:\HitachiDemos\CSPrjs\OOPsDemo\obj\Debug\net8.0\OOPsDemo.dll
+D:\HitachiDemos\CSPrjs\OOPsDemo\obj\Debug\net8.0\refint\OOPsDemo.dll
+D:\HitachiDemos\CSPrjs\OOPsDemo\obj\Debug\net8.0\OOPsDemo.pdb
+D:\HitachiDemos\CSPrjs\OOPsDemo\obj\Debug\net8.0\OOPsDemo.genruntimeconfig.cache
+D:\HitachiDemos\CSPrjs\OOPsDemo\obj\Debug\net8.0\ref\OOPsDemo.dll

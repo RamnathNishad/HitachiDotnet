@@ -1,0 +1,14 @@
+D:\HitachiDemos\CSPrjs\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.exe
+D:\HitachiDemos\CSPrjs\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.deps.json
+D:\HitachiDemos\CSPrjs\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.runtimeconfig.json
+D:\HitachiDemos\CSPrjs\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.dll
+D:\HitachiDemos\CSPrjs\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.pdb
+D:\HitachiDemos\CSPrjs\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\HitachiDemos\CSPrjs\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.AssemblyInfoInputs.cache
+D:\HitachiDemos\CSPrjs\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.AssemblyInfo.cs
+D:\HitachiDemos\CSPrjs\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.csproj.CoreCompileInputs.cache
+D:\HitachiDemos\CSPrjs\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.dll
+D:\HitachiDemos\CSPrjs\InheritanceDemo\obj\Debug\net8.0\refint\InheritanceDemo.dll
+D:\HitachiDemos\CSPrjs\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.pdb
+D:\HitachiDemos\CSPrjs\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.genruntimeconfig.cache
+D:\HitachiDemos\CSPrjs\InheritanceDemo\obj\Debug\net8.0\ref\InheritanceDemo.dll

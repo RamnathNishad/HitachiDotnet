@@ -1,0 +1,14 @@
+D:\HitachiDemos\CSPrjs\InterfacePolymorphism\bin\Debug\net8.0\InterfacePolymorphism.exe
+D:\HitachiDemos\CSPrjs\InterfacePolymorphism\bin\Debug\net8.0\InterfacePolymorphism.deps.json
+D:\HitachiDemos\CSPrjs\InterfacePolymorphism\bin\Debug\net8.0\InterfacePolymorphism.runtimeconfig.json
+D:\HitachiDemos\CSPrjs\InterfacePolymorphism\bin\Debug\net8.0\InterfacePolymorphism.dll
+D:\HitachiDemos\CSPrjs\InterfacePolymorphism\bin\Debug\net8.0\InterfacePolymorphism.pdb
+D:\HitachiDemos\CSPrjs\InterfacePolymorphism\obj\Debug\net8.0\InterfacePolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\HitachiDemos\CSPrjs\InterfacePolymorphism\obj\Debug\net8.0\InterfacePolymorphism.AssemblyInfoInputs.cache
+D:\HitachiDemos\CSPrjs\InterfacePolymorphism\obj\Debug\net8.0\InterfacePolymorphism.AssemblyInfo.cs
+D:\HitachiDemos\CSPrjs\InterfacePolymorphism\obj\Debug\net8.0\InterfacePolymorphism.csproj.CoreCompileInputs.cache
+D:\HitachiDemos\CSPrjs\InterfacePolymorphism\obj\Debug\net8.0\InterfacePolymorphism.dll
+D:\HitachiDemos\CSPrjs\InterfacePolymorphism\obj\Debug\net8.0\refint\InterfacePolymorphism.dll
+D:\HitachiDemos\CSPrjs\InterfacePolymorphism\obj\Debug\net8.0\InterfacePolymorphism.pdb
+D:\HitachiDemos\CSPrjs\InterfacePolymorphism\obj\Debug\net8.0\InterfacePolymorphism.genruntimeconfig.cache
+D:\HitachiDemos\CSPrjs\InterfacePolymorphism\obj\Debug\net8.0\ref\InterfacePolymorphism.dll

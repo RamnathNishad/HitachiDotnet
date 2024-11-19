@@ -1,0 +1,14 @@
+D:\HitachiDemos\CSPrjs\DictionaryDemo\bin\Debug\net8.0\DictionaryDemo.exe
+D:\HitachiDemos\CSPrjs\DictionaryDemo\bin\Debug\net8.0\DictionaryDemo.deps.json
+D:\HitachiDemos\CSPrjs\DictionaryDemo\bin\Debug\net8.0\DictionaryDemo.runtimeconfig.json
+D:\HitachiDemos\CSPrjs\DictionaryDemo\bin\Debug\net8.0\DictionaryDemo.dll
+D:\HitachiDemos\CSPrjs\DictionaryDemo\bin\Debug\net8.0\DictionaryDemo.pdb
+D:\HitachiDemos\CSPrjs\DictionaryDemo\obj\Debug\net8.0\DictionaryDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\HitachiDemos\CSPrjs\DictionaryDemo\obj\Debug\net8.0\DictionaryDemo.AssemblyInfoInputs.cache
+D:\HitachiDemos\CSPrjs\DictionaryDemo\obj\Debug\net8.0\DictionaryDemo.AssemblyInfo.cs
+D:\HitachiDemos\CSPrjs\DictionaryDemo\obj\Debug\net8.0\DictionaryDemo.csproj.CoreCompileInputs.cache
+D:\HitachiDemos\CSPrjs\DictionaryDemo\obj\Debug\net8.0\DictionaryDemo.dll
+D:\HitachiDemos\CSPrjs\DictionaryDemo\obj\Debug\net8.0\refint\DictionaryDemo.dll
+D:\HitachiDemos\CSPrjs\DictionaryDemo\obj\Debug\net8.0\DictionaryDemo.pdb
+D:\HitachiDemos\CSPrjs\DictionaryDemo\obj\Debug\net8.0\DictionaryDemo.genruntimeconfig.cache
+D:\HitachiDemos\CSPrjs\DictionaryDemo\obj\Debug\net8.0\ref\DictionaryDemo.dll

@@ -1,0 +1,14 @@
+D:\HitachiDemos\CSPrjs\CustomExceptionDemo\bin\Debug\net8.0\CustomExceptionDemo.exe
+D:\HitachiDemos\CSPrjs\CustomExceptionDemo\bin\Debug\net8.0\CustomExceptionDemo.deps.json
+D:\HitachiDemos\CSPrjs\CustomExceptionDemo\bin\Debug\net8.0\CustomExceptionDemo.runtimeconfig.json
+D:\HitachiDemos\CSPrjs\CustomExceptionDemo\bin\Debug\net8.0\CustomExceptionDemo.dll
+D:\HitachiDemos\CSPrjs\CustomExceptionDemo\bin\Debug\net8.0\CustomExceptionDemo.pdb
+D:\HitachiDemos\CSPrjs\CustomExceptionDemo\obj\Debug\net8.0\CustomExceptionDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\HitachiDemos\CSPrjs\CustomExceptionDemo\obj\Debug\net8.0\CustomExceptionDemo.AssemblyInfoInputs.cache
+D:\HitachiDemos\CSPrjs\CustomExceptionDemo\obj\Debug\net8.0\CustomExceptionDemo.AssemblyInfo.cs
+D:\HitachiDemos\CSPrjs\CustomExceptionDemo\obj\Debug\net8.0\CustomExceptionDemo.csproj.CoreCompileInputs.cache
+D:\HitachiDemos\CSPrjs\CustomExceptionDemo\obj\Debug\net8.0\CustomExceptionDemo.dll
+D:\HitachiDemos\CSPrjs\CustomExceptionDemo\obj\Debug\net8.0\refint\CustomExceptionDemo.dll
+D:\HitachiDemos\CSPrjs\CustomExceptionDemo\obj\Debug\net8.0\CustomExceptionDemo.pdb
+D:\HitachiDemos\CSPrjs\CustomExceptionDemo\obj\Debug\net8.0\CustomExceptionDemo.genruntimeconfig.cache
+D:\HitachiDemos\CSPrjs\CustomExceptionDemo\obj\Debug\net8.0\ref\CustomExceptionDemo.dll

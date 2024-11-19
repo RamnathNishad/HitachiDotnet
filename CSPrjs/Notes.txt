@@ -1,0 +1,107 @@
+Errors types:
+1) Compilation errors:- syntax errors and detected by the compiler
+2) Logical errors:- Runtime errors and it shows output which is 
+not the desired due to mistake in the logic.
+We find it using Test cases :
+	input--->actual output vs expected output
+debugging options are used to trace the point where errors are
+coming. for e.g. we can use break points in Visual Studio in debug 
+mode.
+3) Exceptions:- These are situations when the program behaves 
+abnormal and terminates event though logic and syntaxes are correct.
+for e.g. Divide By Zero exception
+
+When exception occurs, runtime will wrapped the error details
+into an exception object and throws it to be handled.
+Using try/catch/finally block exceptions are handle.
+
+if not handled, program terminates there itself.
+
+------Custom or User-Defined exceptions-------------
+SystemException used by pre-defined exception
+ApplicationException used by Custom exception
+
+
+
+===========Asynchronous execution using async and await=====
+How async and await work:
+-The async modifier signals to the compiler that the method is 
+asynchronous.
+The await operator is used to await the task when encountered.
+-The task continues running in the background 
+-Once the task completes, the method resumes
+
+Asynchronous programming enables non-blocking code execution.
+-Improves responsiveness in UI applications or web servers.
+-Frees up resources while waiting for I/O-bound or long-running 
+operations.
+
+
+
+
+Delegates:- It is used to bind methods at runtime and invoke them
+even though the objects are not having relations like inheritnce 
+and overriding.
+
+It can be compared with function pointers which stores references
+of methods to invoked dynmaically.
+
+-It is more safer in the sense, it can bind only a particular 
+signature followed by the methods specified during declaration
+of the delegate type.
+
+-It can be a single-cast delegate or multi-cast delegate.
+Single-cast binds only one method at a time whereas multi-cast binds
+more than one methods and all can be invoked with single call.
+
+-Delegates are commonly used in callbacks scenarios for e.g. 
+event-handling or notifications in asynchronouse execution model.
+
+-Delegate can callback or invoke private methods also.
+ 
+ 3 steps:
+ -declare :- what signature of methods the delegate can bind
+ -intialize:- bind the method(s) which to be invoked
+ -invoke:- call the binded method(s)
+
+ *use multi-cast delegate for void return type methods as it will
+ only give the last method result.
+
+ * we can also bind anonymous methods with delegate
+
+
+ *generic pre-defined delegates are there for multiple arguments
+ it can support upto 16 variable arguments
+ -Action<>
+ -Func<>
+
+ var: implicit-typing as per assigned value. It is not dynamic type.
+ -we must declare and assigned in the single statement
+ -we cannot use var for method arguments
+ public var Add(var a,var b) //invalid
+ {
+ 
+ }
+ -we cannot use var as a method return type
+ -we cannot use var for class fields 
+
+ Collections :- unlike array they don't have fixed size
+ 1) Non-generics:- weakly-typed(System.Object) and variable size
+ 2) Generics:- Strongly-typed and variable size
+
+ System.Collections
+	-ArrayList
+	-Hashtable
+ System.Collections.Generic
+	List<>
+	Dictionary<,>
+	SortedDictionary<,>
+	Stack<>
+	Queue<>
+
+
+
+ 
+
+
+

@@ -1,0 +1,14 @@
+D:\HitachiDemos\CSPrjs\BasicConstructs\bin\Debug\net8.0\BasicConstructs.exe
+D:\HitachiDemos\CSPrjs\BasicConstructs\bin\Debug\net8.0\BasicConstructs.deps.json
+D:\HitachiDemos\CSPrjs\BasicConstructs\bin\Debug\net8.0\BasicConstructs.runtimeconfig.json
+D:\HitachiDemos\CSPrjs\BasicConstructs\bin\Debug\net8.0\BasicConstructs.dll
+D:\HitachiDemos\CSPrjs\BasicConstructs\bin\Debug\net8.0\BasicConstructs.pdb
+D:\HitachiDemos\CSPrjs\BasicConstructs\obj\Debug\net8.0\BasicConstructs.GeneratedMSBuildEditorConfig.editorconfig
+D:\HitachiDemos\CSPrjs\BasicConstructs\obj\Debug\net8.0\BasicConstructs.AssemblyInfoInputs.cache
+D:\HitachiDemos\CSPrjs\BasicConstructs\obj\Debug\net8.0\BasicConstructs.AssemblyInfo.cs
+D:\HitachiDemos\CSPrjs\BasicConstructs\obj\Debug\net8.0\BasicConstructs.csproj.CoreCompileInputs.cache
+D:\HitachiDemos\CSPrjs\BasicConstructs\obj\Debug\net8.0\BasicConstructs.dll
+D:\HitachiDemos\CSPrjs\BasicConstructs\obj\Debug\net8.0\refint\BasicConstructs.dll
+D:\HitachiDemos\CSPrjs\BasicConstructs\obj\Debug\net8.0\BasicConstructs.pdb
+D:\HitachiDemos\CSPrjs\BasicConstructs\obj\Debug\net8.0\BasicConstructs.genruntimeconfig.cache
+D:\HitachiDemos\CSPrjs\BasicConstructs\obj\Debug\net8.0\ref\BasicConstructs.dll

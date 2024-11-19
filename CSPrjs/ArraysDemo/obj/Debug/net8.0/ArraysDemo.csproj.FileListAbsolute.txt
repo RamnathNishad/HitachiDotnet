@@ -1,0 +1,14 @@
+D:\HitachiDemos\CSPrjs\ArraysDemo\bin\Debug\net8.0\ArraysDemo.exe
+D:\HitachiDemos\CSPrjs\ArraysDemo\bin\Debug\net8.0\ArraysDemo.deps.json
+D:\HitachiDemos\CSPrjs\ArraysDemo\bin\Debug\net8.0\ArraysDemo.runtimeconfig.json
+D:\HitachiDemos\CSPrjs\ArraysDemo\bin\Debug\net8.0\ArraysDemo.dll
+D:\HitachiDemos\CSPrjs\ArraysDemo\bin\Debug\net8.0\ArraysDemo.pdb
+D:\HitachiDemos\CSPrjs\ArraysDemo\obj\Debug\net8.0\ArraysDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\HitachiDemos\CSPrjs\ArraysDemo\obj\Debug\net8.0\ArraysDemo.AssemblyInfoInputs.cache
+D:\HitachiDemos\CSPrjs\ArraysDemo\obj\Debug\net8.0\ArraysDemo.AssemblyInfo.cs
+D:\HitachiDemos\CSPrjs\ArraysDemo\obj\Debug\net8.0\ArraysDemo.csproj.CoreCompileInputs.cache
+D:\HitachiDemos\CSPrjs\ArraysDemo\obj\Debug\net8.0\ArraysDemo.dll
+D:\HitachiDemos\CSPrjs\ArraysDemo\obj\Debug\net8.0\refint\ArraysDemo.dll
+D:\HitachiDemos\CSPrjs\ArraysDemo\obj\Debug\net8.0\ArraysDemo.pdb
+D:\HitachiDemos\CSPrjs\ArraysDemo\obj\Debug\net8.0\ArraysDemo.genruntimeconfig.cache
+D:\HitachiDemos\CSPrjs\ArraysDemo\obj\Debug\net8.0\ref\ArraysDemo.dll

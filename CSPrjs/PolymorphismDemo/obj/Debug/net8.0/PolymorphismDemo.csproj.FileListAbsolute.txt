@@ -1,0 +1,14 @@
+D:\HitachiDemos\CSPrjs\PolymorphismDemo\bin\Debug\net8.0\PolymorphismDemo.exe
+D:\HitachiDemos\CSPrjs\PolymorphismDemo\bin\Debug\net8.0\PolymorphismDemo.deps.json
+D:\HitachiDemos\CSPrjs\PolymorphismDemo\bin\Debug\net8.0\PolymorphismDemo.runtimeconfig.json
+D:\HitachiDemos\CSPrjs\PolymorphismDemo\bin\Debug\net8.0\PolymorphismDemo.dll
+D:\HitachiDemos\CSPrjs\PolymorphismDemo\bin\Debug\net8.0\PolymorphismDemo.pdb
+D:\HitachiDemos\CSPrjs\PolymorphismDemo\obj\Debug\net8.0\PolymorphismDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\HitachiDemos\CSPrjs\PolymorphismDemo\obj\Debug\net8.0\PolymorphismDemo.AssemblyInfoInputs.cache
+D:\HitachiDemos\CSPrjs\PolymorphismDemo\obj\Debug\net8.0\PolymorphismDemo.AssemblyInfo.cs
+D:\HitachiDemos\CSPrjs\PolymorphismDemo\obj\Debug\net8.0\PolymorphismDemo.csproj.CoreCompileInputs.cache
+D:\HitachiDemos\CSPrjs\PolymorphismDemo\obj\Debug\net8.0\PolymorphismDemo.dll
+D:\HitachiDemos\CSPrjs\PolymorphismDemo\obj\Debug\net8.0\refint\PolymorphismDemo.dll
+D:\HitachiDemos\CSPrjs\PolymorphismDemo\obj\Debug\net8.0\PolymorphismDemo.pdb
+D:\HitachiDemos\CSPrjs\PolymorphismDemo\obj\Debug\net8.0\PolymorphismDemo.genruntimeconfig.cache
+D:\HitachiDemos\CSPrjs\PolymorphismDemo\obj\Debug\net8.0\ref\PolymorphismDemo.dll

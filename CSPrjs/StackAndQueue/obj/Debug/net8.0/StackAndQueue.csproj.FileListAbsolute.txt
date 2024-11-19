@@ -1,0 +1,14 @@
+D:\HitachiDemos\CSPrjs\StackAndQueue\bin\Debug\net8.0\StackAndQueue.exe
+D:\HitachiDemos\CSPrjs\StackAndQueue\bin\Debug\net8.0\StackAndQueue.deps.json
+D:\HitachiDemos\CSPrjs\StackAndQueue\bin\Debug\net8.0\StackAndQueue.runtimeconfig.json
+D:\HitachiDemos\CSPrjs\StackAndQueue\bin\Debug\net8.0\StackAndQueue.dll
+D:\HitachiDemos\CSPrjs\StackAndQueue\bin\Debug\net8.0\StackAndQueue.pdb
+D:\HitachiDemos\CSPrjs\StackAndQueue\obj\Debug\net8.0\StackAndQueue.GeneratedMSBuildEditorConfig.editorconfig
+D:\HitachiDemos\CSPrjs\StackAndQueue\obj\Debug\net8.0\StackAndQueue.AssemblyInfoInputs.cache
+D:\HitachiDemos\CSPrjs\StackAndQueue\obj\Debug\net8.0\StackAndQueue.AssemblyInfo.cs
+D:\HitachiDemos\CSPrjs\StackAndQueue\obj\Debug\net8.0\StackAndQueue.csproj.CoreCompileInputs.cache
+D:\HitachiDemos\CSPrjs\StackAndQueue\obj\Debug\net8.0\StackAndQueue.dll
+D:\HitachiDemos\CSPrjs\StackAndQueue\obj\Debug\net8.0\refint\StackAndQueue.dll
+D:\HitachiDemos\CSPrjs\StackAndQueue\obj\Debug\net8.0\StackAndQueue.pdb
+D:\HitachiDemos\CSPrjs\StackAndQueue\obj\Debug\net8.0\StackAndQueue.genruntimeconfig.cache
+D:\HitachiDemos\CSPrjs\StackAndQueue\obj\Debug\net8.0\ref\StackAndQueue.dll

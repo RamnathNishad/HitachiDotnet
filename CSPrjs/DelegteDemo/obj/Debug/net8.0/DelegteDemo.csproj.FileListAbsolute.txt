@@ -1,0 +1,14 @@
+D:\HitachiDemos\CSPrjs\DelegteDemo\bin\Debug\net8.0\DelegteDemo.exe
+D:\HitachiDemos\CSPrjs\DelegteDemo\bin\Debug\net8.0\DelegteDemo.deps.json
+D:\HitachiDemos\CSPrjs\DelegteDemo\bin\Debug\net8.0\DelegteDemo.runtimeconfig.json
+D:\HitachiDemos\CSPrjs\DelegteDemo\bin\Debug\net8.0\DelegteDemo.dll
+D:\HitachiDemos\CSPrjs\DelegteDemo\bin\Debug\net8.0\DelegteDemo.pdb
+D:\HitachiDemos\CSPrjs\DelegteDemo\obj\Debug\net8.0\DelegteDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\HitachiDemos\CSPrjs\DelegteDemo\obj\Debug\net8.0\DelegteDemo.AssemblyInfoInputs.cache
+D:\HitachiDemos\CSPrjs\DelegteDemo\obj\Debug\net8.0\DelegteDemo.AssemblyInfo.cs
+D:\HitachiDemos\CSPrjs\DelegteDemo\obj\Debug\net8.0\DelegteDemo.csproj.CoreCompileInputs.cache
+D:\HitachiDemos\CSPrjs\DelegteDemo\obj\Debug\net8.0\DelegteDemo.dll
+D:\HitachiDemos\CSPrjs\DelegteDemo\obj\Debug\net8.0\refint\DelegteDemo.dll
+D:\HitachiDemos\CSPrjs\DelegteDemo\obj\Debug\net8.0\DelegteDemo.pdb
+D:\HitachiDemos\CSPrjs\DelegteDemo\obj\Debug\net8.0\DelegteDemo.genruntimeconfig.cache
+D:\HitachiDemos\CSPrjs\DelegteDemo\obj\Debug\net8.0\ref\DelegteDemo.dll

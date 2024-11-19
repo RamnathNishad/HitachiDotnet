@@ -1,0 +1,14 @@
+D:\HitachiDemos\CSPrjs\DebuggingDemo\bin\Debug\net8.0\DebuggingDemo.exe
+D:\HitachiDemos\CSPrjs\DebuggingDemo\bin\Debug\net8.0\DebuggingDemo.deps.json
+D:\HitachiDemos\CSPrjs\DebuggingDemo\bin\Debug\net8.0\DebuggingDemo.runtimeconfig.json
+D:\HitachiDemos\CSPrjs\DebuggingDemo\bin\Debug\net8.0\DebuggingDemo.dll
+D:\HitachiDemos\CSPrjs\DebuggingDemo\bin\Debug\net8.0\DebuggingDemo.pdb
+D:\HitachiDemos\CSPrjs\DebuggingDemo\obj\Debug\net8.0\DebuggingDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\HitachiDemos\CSPrjs\DebuggingDemo\obj\Debug\net8.0\DebuggingDemo.AssemblyInfoInputs.cache
+D:\HitachiDemos\CSPrjs\DebuggingDemo\obj\Debug\net8.0\DebuggingDemo.AssemblyInfo.cs
+D:\HitachiDemos\CSPrjs\DebuggingDemo\obj\Debug\net8.0\DebuggingDemo.csproj.CoreCompileInputs.cache
+D:\HitachiDemos\CSPrjs\DebuggingDemo\obj\Debug\net8.0\DebuggingDemo.dll
+D:\HitachiDemos\CSPrjs\DebuggingDemo\obj\Debug\net8.0\refint\DebuggingDemo.dll
+D:\HitachiDemos\CSPrjs\DebuggingDemo\obj\Debug\net8.0\DebuggingDemo.pdb
+D:\HitachiDemos\CSPrjs\DebuggingDemo\obj\Debug\net8.0\DebuggingDemo.genruntimeconfig.cache
+D:\HitachiDemos\CSPrjs\DebuggingDemo\obj\Debug\net8.0\ref\DebuggingDemo.dll

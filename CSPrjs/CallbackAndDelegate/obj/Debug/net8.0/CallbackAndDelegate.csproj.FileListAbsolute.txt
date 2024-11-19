@@ -1,0 +1,14 @@
+D:\HitachiDemos\CSPrjs\CallbackAndDelegate\bin\Debug\net8.0\CallbackAndDelegate.exe
+D:\HitachiDemos\CSPrjs\CallbackAndDelegate\bin\Debug\net8.0\CallbackAndDelegate.deps.json
+D:\HitachiDemos\CSPrjs\CallbackAndDelegate\bin\Debug\net8.0\CallbackAndDelegate.runtimeconfig.json
+D:\HitachiDemos\CSPrjs\CallbackAndDelegate\bin\Debug\net8.0\CallbackAndDelegate.dll
+D:\HitachiDemos\CSPrjs\CallbackAndDelegate\bin\Debug\net8.0\CallbackAndDelegate.pdb
+D:\HitachiDemos\CSPrjs\CallbackAndDelegate\obj\Debug\net8.0\CallbackAndDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\HitachiDemos\CSPrjs\CallbackAndDelegate\obj\Debug\net8.0\CallbackAndDelegate.AssemblyInfoInputs.cache
+D:\HitachiDemos\CSPrjs\CallbackAndDelegate\obj\Debug\net8.0\CallbackAndDelegate.AssemblyInfo.cs
+D:\HitachiDemos\CSPrjs\CallbackAndDelegate\obj\Debug\net8.0\CallbackAndDelegate.csproj.CoreCompileInputs.cache
+D:\HitachiDemos\CSPrjs\CallbackAndDelegate\obj\Debug\net8.0\CallbackAndDelegate.dll
+D:\HitachiDemos\CSPrjs\CallbackAndDelegate\obj\Debug\net8.0\refint\CallbackAndDelegate.dll
+D:\HitachiDemos\CSPrjs\CallbackAndDelegate\obj\Debug\net8.0\CallbackAndDelegate.pdb
+D:\HitachiDemos\CSPrjs\CallbackAndDelegate\obj\Debug\net8.0\CallbackAndDelegate.genruntimeconfig.cache
+D:\HitachiDemos\CSPrjs\CallbackAndDelegate\obj\Debug\net8.0\ref\CallbackAndDelegate.dll

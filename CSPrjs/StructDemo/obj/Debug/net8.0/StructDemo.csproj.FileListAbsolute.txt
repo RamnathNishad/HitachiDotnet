@@ -1,0 +1,14 @@
+D:\HitachiDemos\CSPrjs\StructDemo\bin\Debug\net8.0\StructDemo.exe
+D:\HitachiDemos\CSPrjs\StructDemo\bin\Debug\net8.0\StructDemo.deps.json
+D:\HitachiDemos\CSPrjs\StructDemo\bin\Debug\net8.0\StructDemo.runtimeconfig.json
+D:\HitachiDemos\CSPrjs\StructDemo\bin\Debug\net8.0\StructDemo.dll
+D:\HitachiDemos\CSPrjs\StructDemo\bin\Debug\net8.0\StructDemo.pdb
+D:\HitachiDemos\CSPrjs\StructDemo\obj\Debug\net8.0\StructDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\HitachiDemos\CSPrjs\StructDemo\obj\Debug\net8.0\StructDemo.AssemblyInfoInputs.cache
+D:\HitachiDemos\CSPrjs\StructDemo\obj\Debug\net8.0\StructDemo.AssemblyInfo.cs
+D:\HitachiDemos\CSPrjs\StructDemo\obj\Debug\net8.0\StructDemo.csproj.CoreCompileInputs.cache
+D:\HitachiDemos\CSPrjs\StructDemo\obj\Debug\net8.0\StructDemo.dll
+D:\HitachiDemos\CSPrjs\StructDemo\obj\Debug\net8.0\refint\StructDemo.dll
+D:\HitachiDemos\CSPrjs\StructDemo\obj\Debug\net8.0\StructDemo.pdb
+D:\HitachiDemos\CSPrjs\StructDemo\obj\Debug\net8.0\StructDemo.genruntimeconfig.cache
+D:\HitachiDemos\CSPrjs\StructDemo\obj\Debug\net8.0\ref\StructDemo.dll
