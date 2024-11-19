@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\HitachiDemos\\CSPrjs\\InheritanceDemo\\InheritanceDemo.csproj": {}
+    "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\InheritanceDemo\\InheritanceDemo.csproj": {}
   },
   "projects": {
-    "D:\\HitachiDemos\\CSPrjs\\InheritanceDemo\\InheritanceDemo.csproj": {
+    "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\InheritanceDemo\\InheritanceDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HitachiDemos\\CSPrjs\\InheritanceDemo\\InheritanceDemo.csproj",
+        "projectUniqueName": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\InheritanceDemo\\InheritanceDemo.csproj",
         "projectName": "InheritanceDemo",
-        "projectPath": "D:\\HitachiDemos\\CSPrjs\\InheritanceDemo\\InheritanceDemo.csproj",
+        "projectPath": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\InheritanceDemo\\InheritanceDemo.csproj",
         "packagesPath": "C:\\Users\\raman\\.nuget\\packages\\",
-        "outputPath": "D:\\HitachiDemos\\CSPrjs\\InheritanceDemo\\obj\\",
+        "outputPath": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\InheritanceDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\HitachiDemos\\CSPrjs\\CallbackAndDelegate\\CallbackAndDelegate.csproj": {}
+    "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\CallbackAndDelegate\\CallbackAndDelegate.csproj": {}
   },
   "projects": {
-    "D:\\HitachiDemos\\CSPrjs\\CallbackAndDelegate\\CallbackAndDelegate.csproj": {
+    "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\CallbackAndDelegate\\CallbackAndDelegate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HitachiDemos\\CSPrjs\\CallbackAndDelegate\\CallbackAndDelegate.csproj",
+        "projectUniqueName": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\CallbackAndDelegate\\CallbackAndDelegate.csproj",
         "projectName": "CallbackAndDelegate",
-        "projectPath": "D:\\HitachiDemos\\CSPrjs\\CallbackAndDelegate\\CallbackAndDelegate.csproj",
+        "projectPath": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\CallbackAndDelegate\\CallbackAndDelegate.csproj",
         "packagesPath": "C:\\Users\\raman\\.nuget\\packages\\",
-        "outputPath": "D:\\HitachiDemos\\CSPrjs\\CallbackAndDelegate\\obj\\",
+        "outputPath": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\CallbackAndDelegate\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

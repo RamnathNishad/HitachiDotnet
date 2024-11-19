@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\HitachiDemos\\CSPrjs\\InterfaceDemo\\InterfaceDemo.csproj",
+      "projectUniqueName": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\InterfaceDemo\\InterfaceDemo.csproj",
       "projectName": "InterfaceDemo",
-      "projectPath": "D:\\HitachiDemos\\CSPrjs\\InterfaceDemo\\InterfaceDemo.csproj",
+      "projectPath": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\InterfaceDemo\\InterfaceDemo.csproj",
       "packagesPath": "C:\\Users\\raman\\.nuget\\packages\\",
-      "outputPath": "D:\\HitachiDemos\\CSPrjs\\InterfaceDemo\\obj\\",
+      "outputPath": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\InterfaceDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

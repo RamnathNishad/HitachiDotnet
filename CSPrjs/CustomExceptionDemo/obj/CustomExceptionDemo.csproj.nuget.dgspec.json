@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\HitachiDemos\\CSPrjs\\CustomExceptionDemo\\CustomExceptionDemo.csproj": {}
+    "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\CustomExceptionDemo\\CustomExceptionDemo.csproj": {}
   },
   "projects": {
-    "D:\\HitachiDemos\\CSPrjs\\CustomExceptionDemo\\CustomExceptionDemo.csproj": {
+    "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\CustomExceptionDemo\\CustomExceptionDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HitachiDemos\\CSPrjs\\CustomExceptionDemo\\CustomExceptionDemo.csproj",
+        "projectUniqueName": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\CustomExceptionDemo\\CustomExceptionDemo.csproj",
         "projectName": "CustomExceptionDemo",
-        "projectPath": "D:\\HitachiDemos\\CSPrjs\\CustomExceptionDemo\\CustomExceptionDemo.csproj",
+        "projectPath": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\CustomExceptionDemo\\CustomExceptionDemo.csproj",
         "packagesPath": "C:\\Users\\raman\\.nuget\\packages\\",
-        "outputPath": "D:\\HitachiDemos\\CSPrjs\\CustomExceptionDemo\\obj\\",
+        "outputPath": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\CustomExceptionDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

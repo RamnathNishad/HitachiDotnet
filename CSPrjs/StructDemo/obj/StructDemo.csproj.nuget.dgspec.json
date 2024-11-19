@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\HitachiDemos\\CSPrjs\\StructDemo\\StructDemo.csproj": {}
+    "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\StructDemo\\StructDemo.csproj": {}
   },
   "projects": {
-    "D:\\HitachiDemos\\CSPrjs\\StructDemo\\StructDemo.csproj": {
+    "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\StructDemo\\StructDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HitachiDemos\\CSPrjs\\StructDemo\\StructDemo.csproj",
+        "projectUniqueName": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\StructDemo\\StructDemo.csproj",
         "projectName": "StructDemo",
-        "projectPath": "D:\\HitachiDemos\\CSPrjs\\StructDemo\\StructDemo.csproj",
+        "projectPath": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\StructDemo\\StructDemo.csproj",
         "packagesPath": "C:\\Users\\raman\\.nuget\\packages\\",
-        "outputPath": "D:\\HitachiDemos\\CSPrjs\\StructDemo\\obj\\",
+        "outputPath": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\StructDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

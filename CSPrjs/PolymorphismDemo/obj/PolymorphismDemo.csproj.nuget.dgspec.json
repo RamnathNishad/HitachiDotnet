@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\HitachiDemos\\CSPrjs\\PolymorphismDemo\\PolymorphismDemo.csproj": {}
+    "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\PolymorphismDemo\\PolymorphismDemo.csproj": {}
   },
   "projects": {
-    "D:\\HitachiDemos\\CSPrjs\\PolymorphismDemo\\PolymorphismDemo.csproj": {
+    "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\PolymorphismDemo\\PolymorphismDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HitachiDemos\\CSPrjs\\PolymorphismDemo\\PolymorphismDemo.csproj",
+        "projectUniqueName": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\PolymorphismDemo\\PolymorphismDemo.csproj",
         "projectName": "PolymorphismDemo",
-        "projectPath": "D:\\HitachiDemos\\CSPrjs\\PolymorphismDemo\\PolymorphismDemo.csproj",
+        "projectPath": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\PolymorphismDemo\\PolymorphismDemo.csproj",
         "packagesPath": "C:\\Users\\raman\\.nuget\\packages\\",
-        "outputPath": "D:\\HitachiDemos\\CSPrjs\\PolymorphismDemo\\obj\\",
+        "outputPath": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\PolymorphismDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

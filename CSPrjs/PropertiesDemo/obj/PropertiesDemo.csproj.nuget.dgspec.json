@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\HitachiDemos\\CSPrjs\\PropertiesDemo\\PropertiesDemo.csproj": {}
+    "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\PropertiesDemo\\PropertiesDemo.csproj": {}
   },
   "projects": {
-    "D:\\HitachiDemos\\CSPrjs\\PropertiesDemo\\PropertiesDemo.csproj": {
+    "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\PropertiesDemo\\PropertiesDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HitachiDemos\\CSPrjs\\PropertiesDemo\\PropertiesDemo.csproj",
+        "projectUniqueName": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\PropertiesDemo\\PropertiesDemo.csproj",
         "projectName": "PropertiesDemo",
-        "projectPath": "D:\\HitachiDemos\\CSPrjs\\PropertiesDemo\\PropertiesDemo.csproj",
+        "projectPath": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\PropertiesDemo\\PropertiesDemo.csproj",
         "packagesPath": "C:\\Users\\raman\\.nuget\\packages\\",
-        "outputPath": "D:\\HitachiDemos\\CSPrjs\\PropertiesDemo\\obj\\",
+        "outputPath": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\PropertiesDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

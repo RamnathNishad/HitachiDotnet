@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\HitachiDemos\\CSPrjs\\InterfacePolymorphism\\InterfacePolymorphism.csproj": {}
+    "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\InterfacePolymorphism\\InterfacePolymorphism.csproj": {}
   },
   "projects": {
-    "D:\\HitachiDemos\\CSPrjs\\InterfacePolymorphism\\InterfacePolymorphism.csproj": {
+    "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\InterfacePolymorphism\\InterfacePolymorphism.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HitachiDemos\\CSPrjs\\InterfacePolymorphism\\InterfacePolymorphism.csproj",
+        "projectUniqueName": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\InterfacePolymorphism\\InterfacePolymorphism.csproj",
         "projectName": "InterfacePolymorphism",
-        "projectPath": "D:\\HitachiDemos\\CSPrjs\\InterfacePolymorphism\\InterfacePolymorphism.csproj",
+        "projectPath": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\InterfacePolymorphism\\InterfacePolymorphism.csproj",
         "packagesPath": "C:\\Users\\raman\\.nuget\\packages\\",
-        "outputPath": "D:\\HitachiDemos\\CSPrjs\\InterfacePolymorphism\\obj\\",
+        "outputPath": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\InterfacePolymorphism\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

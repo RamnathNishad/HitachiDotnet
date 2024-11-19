@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\HitachiDemos\\CSPrjs\\BasicConstructs\\BasicConstructs.csproj": {}
+    "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\BasicConstructs\\BasicConstructs.csproj": {}
   },
   "projects": {
-    "D:\\HitachiDemos\\CSPrjs\\BasicConstructs\\BasicConstructs.csproj": {
+    "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\BasicConstructs\\BasicConstructs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HitachiDemos\\CSPrjs\\BasicConstructs\\BasicConstructs.csproj",
+        "projectUniqueName": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\BasicConstructs\\BasicConstructs.csproj",
         "projectName": "BasicConstructs",
-        "projectPath": "D:\\HitachiDemos\\CSPrjs\\BasicConstructs\\BasicConstructs.csproj",
+        "projectPath": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\BasicConstructs\\BasicConstructs.csproj",
         "packagesPath": "C:\\Users\\raman\\.nuget\\packages\\",
-        "outputPath": "D:\\HitachiDemos\\CSPrjs\\BasicConstructs\\obj\\",
+        "outputPath": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\BasicConstructs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

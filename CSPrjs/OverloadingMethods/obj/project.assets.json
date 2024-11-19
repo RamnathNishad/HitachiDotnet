@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\HitachiDemos\\CSPrjs\\OverloadingMethods\\OverloadingMethods.csproj",
+      "projectUniqueName": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\OverloadingMethods\\OverloadingMethods.csproj",
       "projectName": "OverloadingMethods",
-      "projectPath": "D:\\HitachiDemos\\CSPrjs\\OverloadingMethods\\OverloadingMethods.csproj",
+      "projectPath": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\OverloadingMethods\\OverloadingMethods.csproj",
       "packagesPath": "C:\\Users\\raman\\.nuget\\packages\\",
-      "outputPath": "D:\\HitachiDemos\\CSPrjs\\OverloadingMethods\\obj\\",
+      "outputPath": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\OverloadingMethods\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\HitachiDemos\\CSPrjs\\AbstractDemo\\AbstractDemo.csproj",
+      "projectUniqueName": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\AbstractDemo\\AbstractDemo.csproj",
       "projectName": "AbstractDemo",
-      "projectPath": "D:\\HitachiDemos\\CSPrjs\\AbstractDemo\\AbstractDemo.csproj",
+      "projectPath": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\AbstractDemo\\AbstractDemo.csproj",
       "packagesPath": "C:\\Users\\raman\\.nuget\\packages\\",
-      "outputPath": "D:\\HitachiDemos\\CSPrjs\\AbstractDemo\\obj\\",
+      "outputPath": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\AbstractDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
