@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EBE4DA3E-D9F1-43B1-83B7-E8E247B5B713}|Solution Items{EBE4DA3E-D9F1-43B1-83B7-E8E247B5B713}|D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\Notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EBE4DA3E-D9F1-43B1-83B7-E8E247B5B713}|Solution Items{EBE4DA3E-D9F1-43B1-83B7-E8E247B5B713}|solutionrelative:Notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F69231-968D-4EDA-A253-8A7E98CDD4FB}|SOLIDPrinciples\\SOLIDPrinciples.csproj|d:\\hitachidemos\\hitachidotnet\\csprjs\\solidprinciples\\facadedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F69231-968D-4EDA-A253-8A7E98CDD4FB}|SOLIDPrinciples\\SOLIDPrinciples.csproj|solutionrelative:solidprinciples\\facadedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F69231-968D-4EDA-A253-8A7E98CDD4FB}|SOLIDPrinciples\\SOLIDPrinciples.csproj|d:\\hitachidemos\\hitachidotnet\\csprjs\\solidprinciples\\adapterdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F69231-968D-4EDA-A253-8A7E98CDD4FB}|SOLIDPrinciples\\SOLIDPrinciples.csproj|solutionrelative:solidprinciples\\adapterdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F69231-968D-4EDA-A253-8A7E98CDD4FB}|SOLIDPrinciples\\SOLIDPrinciples.csproj|d:\\hitachidemos\\hitachidotnet\\csprjs\\solidprinciples\\singletondemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F69231-968D-4EDA-A253-8A7E98CDD4FB}|SOLIDPrinciples\\SOLIDPrinciples.csproj|solutionrelative:solidprinciples\\singletondemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{69F69231-968D-4EDA-A253-8A7E98CDD4FB}|SOLIDPrinciples\\SOLIDPrinciples.csproj|d:\\hitachidemos\\hitachidotnet\\csprjs\\solidprinciples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69F69231-968D-4EDA-A253-8A7E98CDD4FB}|SOLIDPrinciples\\SOLIDPrinciples.csproj|solutionrelative:solidprinciples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69F69231-968D-4EDA-A253-8A7E98CDD4FB}|SOLIDPrinciples\\SOLIDPrinciples.csproj|d:\\hitachidemos\\hitachidotnet\\csprjs\\solidprinciples\\dependencydemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69F69231-968D-4EDA-A253-8A7E98CDD4FB}|SOLIDPrinciples\\SOLIDPrinciples.csproj|solutionrelative:solidprinciples\\dependencydemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBE4DA3E-D9F1-43B1-83B7-E8E247B5B713}|Solution Items{EBE4DA3E-D9F1-43B1-83B7-E8E247B5B713}|D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\Notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{EBE4DA3E-D9F1-43B1-83B7-E8E247B5B713}|Solution Items{EBE4DA3E-D9F1-43B1-83B7-E8E247B5B713}|solutionrelative:Notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69F69231-968D-4EDA-A253-8A7E98CDD4FB}|SOLIDPrinciples\\SOLIDPrinciples.csproj|d:\\hitachidemos\\hitachidotnet\\csprjs\\solidprinciples\\ispprinciple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69F69231-968D-4EDA-A253-8A7E98CDD4FB}|SOLIDPrinciples\\SOLIDPrinciples.csproj|solutionrelative:solidprinciples\\ispprinciple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69F69231-968D-4EDA-A253-8A7E98CDD4FB}|SOLIDPrinciples\\SOLIDPrinciples.csproj|d:\\hitachidemos\\hitachidotnet\\csprjs\\solidprinciples\\lspprinciple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69F69231-968D-4EDA-A253-8A7E98CDD4FB}|SOLIDPrinciples\\SOLIDPrinciples.csproj|solutionrelative:solidprinciples\\lspprinciple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69F69231-968D-4EDA-A253-8A7E98CDD4FB}|SOLIDPrinciples\\SOLIDPrinciples.csproj|d:\\hitachidemos\\hitachidotnet\\csprjs\\solidprinciples\\openclosedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69F69231-968D-4EDA-A253-8A7E98CDD4FB}|SOLIDPrinciples\\SOLIDPrinciples.csproj|solutionrelative:solidprinciples\\openclosedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,6 +43,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "FacadeDemo.cs",
+              "DocumentMoniker": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\SOLIDPrinciples\\FacadeDemo.cs",
+              "RelativeDocumentMoniker": "SOLIDPrinciples\\FacadeDemo.cs",
+              "ToolTip": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\SOLIDPrinciples\\FacadeDemo.cs",
+              "RelativeToolTip": "SOLIDPrinciples\\FacadeDemo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T06:42:16.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdapterDemo.cs",
+              "DocumentMoniker": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\SOLIDPrinciples\\AdapterDemo.cs",
+              "RelativeDocumentMoniker": "SOLIDPrinciples\\AdapterDemo.cs",
+              "ToolTip": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\SOLIDPrinciples\\AdapterDemo.cs",
+              "RelativeToolTip": "SOLIDPrinciples\\AdapterDemo.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T06:17:21.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SingleTonDemo.cs",
+              "DocumentMoniker": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\SOLIDPrinciples\\SingleTonDemo.cs",
+              "RelativeDocumentMoniker": "SOLIDPrinciples\\SingleTonDemo.cs",
+              "ToolTip": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\SOLIDPrinciples\\SingleTonDemo.cs",
+              "RelativeToolTip": "SOLIDPrinciples\\SingleTonDemo.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAywBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T06:06:17.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "DependencyDemo.cs",
               "DocumentMoniker": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\SOLIDPrinciples\\DependencyDemo.cs",
               "RelativeDocumentMoniker": "SOLIDPrinciples\\DependencyDemo.cs",
@@ -55,33 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ISPPrinciple.cs",
-              "DocumentMoniker": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\SOLIDPrinciples\\ISPPrinciple.cs",
-              "RelativeDocumentMoniker": "SOLIDPrinciples\\ISPPrinciple.cs",
-              "ToolTip": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\SOLIDPrinciples\\ISPPrinciple.cs",
-              "RelativeToolTip": "SOLIDPrinciples\\ISPPrinciple.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA+wBgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T05:15:11.617Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "LSPPrinciple.cs",
-              "DocumentMoniker": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\SOLIDPrinciples\\LSPPrinciple.cs",
-              "RelativeDocumentMoniker": "SOLIDPrinciples\\LSPPrinciple.cs",
-              "ToolTip": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\SOLIDPrinciples\\LSPPrinciple.cs",
-              "RelativeToolTip": "SOLIDPrinciples\\LSPPrinciple.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T04:58:48.813Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\SOLIDPrinciples\\Program.cs",
               "RelativeDocumentMoniker": "SOLIDPrinciples\\Program.cs",
@@ -94,28 +107,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Notes.txt",
               "DocumentMoniker": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\Notes.txt",
               "RelativeDocumentMoniker": "Notes.txt",
               "ToolTip": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\Notes.txt",
               "RelativeToolTip": "Notes.txt",
-              "ViewState": "AgIAALIAAAAAAAAAAAAywL0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAAAKUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2024-11-20T04:31:01.032Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "OpenCloseDemo.cs",
-              "DocumentMoniker": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\SOLIDPrinciples\\OpenCloseDemo.cs",
-              "RelativeDocumentMoniker": "SOLIDPrinciples\\OpenCloseDemo.cs",
-              "ToolTip": "D:\\HitachiDemos\\HitachiDotnet\\CSPrjs\\SOLIDPrinciples\\OpenCloseDemo.cs",
-              "RelativeToolTip": "SOLIDPrinciples\\OpenCloseDemo.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAYwCcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T04:30:08.263Z",
               "EditorCaption": ""
             }
           ]

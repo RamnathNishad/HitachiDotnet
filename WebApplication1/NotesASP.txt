@@ -1,0 +1,256 @@
+Steps for Dependency injection in ASP.NET Core:
+1) Define the interface and the implementation class to be injected
+2) configure for the dependency inject in Program.cs file using
+either of the method AddScoped(),AddSingleton() or AddTransient()
+	Singleton----> only one instance is maintained throughout app
+		e.g. global logger object
+	Scoped----> Within the same HTTP Request, same instance is used
+		for DbContext etc
+	Transient---> Always new instance is created
+			for Helper or Utility classes
+
+builder.Services.AddScoped<TInterface,TImplemenation>();
+3) Inject the class in the ctor of the API controller using
+interface
+
+
+Security in Web API:-
+Authentication and Authorization
+
+JWT Token based authentication:-
+1) User send request to server along with credential to get token
+2) Server will validate credential and provides token
+3) User communicates service methods using that token
+4) Every time for a user request, token is validated by the
+server to give response
+
+Steps:
+1) install the following packages from Nuget
+	-Microsoft.AspNetCore.Authentication.JwtBearer
+	-System.IdentityModel.Tokens.Jwt
+2) Configure JwtBearer token authentication scheme in Program.cs
+
+
+-------------Global Exception handling---------------------
+This is used to handle any uncaught exception in the application
+We do this using Middleware
+
+EF Framework : ORM(Objet-Relational Mapping) tool from Microsoft and 
+open source to interact with Data Access Layer in Application.
+Two approaches :
+1) Database-First approach:- If already database is there , we 
+can use this
+2) Code-First approach:- If first design our entity models and 
+database context classes which generate or create database and tables
+using these models with help of Migration commands. 
+
+Database context and Models classes are used in EF Core.
+context is configured for server details like database,authentication etc
+and models to map to tables and relations.
+
+Steps:
+1) Install the required packages
+ -Microsoft.EntityFrameworkCore.SqlServer
+ -Microsoft.EntityFramework
+ -Microsoft.EntityFramework.Tools (for migration commands)
+
+2) Define DbContext and Model classes and Map to the DbSet tables
+
+3) Configure dependency inject for DbContext class in Program.cs
+		builder.Services.AddDbContext<TContext>(options like constr etc);
+4) Build the app to no errors, run the migration commands
+	i) Add-Migration name-of-migration   ---generated the migration codes
+	ii) Update-Database name-of-migration  ---execute the above
+							code and make changes to database objects
+
+Note: whenever we are modifying our models, we must add and run 
+new migration for the changes to reflect in database
+
+Foreign Key relation:
+Cardinality ratio
+1) 1:1    e.g. User----->UserProfile
+2) 1:M    e.g  Order---->OrderItem
+3) M:N    e.g. Student------>Course
+
+one-to-one:
+public class User
+{
+	public int Id{get;set;}
+	public string Username {get;set;}
+
+	public UserProfile Profile {get;set;}
+}
+
+public class UserProfile
+{
+	public int Id{get;set;}   //profile id as PK
+	public int UserId {get;set;}
+	public string FullName {get;set;}
+
+	public User User{get;set;}
+}
+
+one-to-many:
+public class Order
+{
+	public int Id{get;set;} 
+	public DateTime OrderDate {get;set;}
+	public List<OrderItem> Items {get;set;}
+}
+
+public class OrderItem
+{
+	public int Id {get;set;}
+	public int OrderId{get;set;}
+	public string ProductName {get;set;}
+	public int Quantity {get;set;}
+	public Order Order {get;set;}
+}
+
+many-to-many:
+STUDENT(id,name)
+COURSE(id,title)
+ENROLLMENT(sid,cid,enroll_date)
+
+public class Student
+{
+	public int Id{get;set;}
+	public string Name {get;set;}
+	public List<Enrollment> Enrollments {get;set;}
+}
+
+public class Course
+{
+	public int Id {get;set;}
+	public string Title{get;set;}
+	public List<Enrollment> Enrollments {get;set;}
+}
+public class Enrollment
+{
+	public int StudentId{get;set;}
+	public Student Student{get;set;}
+
+	public int CourseId {get;set;}
+	public Course Course {get;set;}
+
+	public DateTime EnrollmentDate {get;set;}
+}
+
+//specify the composite key in OnModelCreating method:
+
+modelBuilder.Entity<Enrollment>()
+            .HasKey(en => new { en.StudentId, en.CourseId });
+
+-------------How to call stored procedures----------------
+---For Query stored procedure:
+	context.Database.FromSqlRaw() 
+	context.Database.FromSqlInterpolated()
+
+Best practices to optimize the database operations:-
+1) Filter early:- 
+		
+			var res = dbxt.employees.Where(o=>o.ecode==101).ToList()
+
+2) Use projections:
+Fetch only the data you need by using select and anonymouse type
+	var res=dbCtx.Orders.Select(o=>new {o.id,o.date});
+3) Use no-tracking queries if u r just reading the data. 
+	dbCtx.employees.AsNoTracking().ToList()----> just read data
+
+	dbCtx.employees.ToList() ---use this when frequently updating 
+		and saving as it tracks the changes by default
+4) Eager loading vs Lazy loading:-
+		eager laoding fetches related data as part of initial query
+		using include method.
+			ctx.customers.Include(c=>c.Orders).ToList()
+
+		lazy loading:
+			var customer=ctx.Customers.Find(1);
+			var orders=customer.Orders
+
+5) using Asynchronous methods: when there multiple requests same time
+	ToList()-----ToListAsync()
+
+	First()-----FirstAsync()
+6) Paginate the data :
+		ctx.Customers.Skip((pageno-1)*pageSize)
+		.Take(pageSize)
+		.ToListAsync()
+
+7) cache frequently used data:-
+	
+8) Use Batching for multiple inserts/Update
+	var newCustomers=new List<Customer>
+	{
+	   new Customer{Name="Cust1"},
+	   new Customer{Name="Cust2"}
+	};
+
+	ctx.Customers.AddRange(newCustomers);  //instead of Add
+	ctx.SaveChanges();
+
+9) Indexing Database columns:
+	modelBuilder.Entity<Employee>().HasIndex(e=>Ename);
+
+10) Optimize Connection Pooling:-
+	in connection string :
+	"Server=myServer;Database=myDb; Max Pool Size=100;Min Pool Size=5"
+
+11) Avoid calling frequent Count() and SaveChanges() in between 
+the database operations.
+
+	ctx.Customers.Add(c1)
+	ctx.Customers.Add(c2)
+	ctx.SaveChanges()
+
+
+
+-Disabling Identity insert in table column:
+use this annotation to the column:
+[DatabaseGenerated(DatabaseGeneratedOption.None)]
+        
+default is on:
+[DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+
+====================
+for configuring Xml mediatype formatter in WEB API:
+builder.Services.AddControllers(options=>
+            {
+                options.OutputFormatters
+                       .Add(new XmlSerializerOutputFormatter()); 
+            });
+
+-----------------CORS policy-----------------
+CORS:- Cross-Orgin-Resource-Sharing.
+By web api does not allow across domain to access its endpoints by
+various clients. We need to enable in web api who all can access
+the end points.
+
+-in program.cs we have to add cors and use cors
+ //configure CORS policy
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy("clients-allowed", opts =>
+                {
+                    opts.WithOrigins("http://localhost:5146")
+                        .AllowAnyMethod();
+                });
+            });
+
+	var app = builder.Build();
+	//....
+
+	app.UseCors("clients-allowed");
+	app.Run();
+
+
+---for consuming api using C#---
+using (var client=new HttpClient())
+{
+                client.BaseAddress = new Uri("http://localhost:5162/api/Employees/");
+                var response = await client.GetStringAsync("GetEmps");
+                Console.WriteLine(response);
+}
+
+
+

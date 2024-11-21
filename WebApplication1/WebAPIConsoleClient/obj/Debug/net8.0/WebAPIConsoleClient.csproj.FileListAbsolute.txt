@@ -1,0 +1,14 @@
+D:\HitachiDemos\WebApplication1\WebAPIConsoleClient\obj\Debug\net8.0\WebAPIConsoleClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\HitachiDemos\WebApplication1\WebAPIConsoleClient\obj\Debug\net8.0\WebAPIConsoleClient.AssemblyInfoInputs.cache
+D:\HitachiDemos\WebApplication1\WebAPIConsoleClient\obj\Debug\net8.0\WebAPIConsoleClient.AssemblyInfo.cs
+D:\HitachiDemos\WebApplication1\WebAPIConsoleClient\obj\Debug\net8.0\WebAPIConsoleClient.csproj.CoreCompileInputs.cache
+D:\HitachiDemos\WebApplication1\WebAPIConsoleClient\bin\Debug\net8.0\WebAPIConsoleClient.exe
+D:\HitachiDemos\WebApplication1\WebAPIConsoleClient\bin\Debug\net8.0\WebAPIConsoleClient.deps.json
+D:\HitachiDemos\WebApplication1\WebAPIConsoleClient\bin\Debug\net8.0\WebAPIConsoleClient.runtimeconfig.json
+D:\HitachiDemos\WebApplication1\WebAPIConsoleClient\bin\Debug\net8.0\WebAPIConsoleClient.dll
+D:\HitachiDemos\WebApplication1\WebAPIConsoleClient\bin\Debug\net8.0\WebAPIConsoleClient.pdb
+D:\HitachiDemos\WebApplication1\WebAPIConsoleClient\obj\Debug\net8.0\WebAPIConsoleClient.dll
+D:\HitachiDemos\WebApplication1\WebAPIConsoleClient\obj\Debug\net8.0\refint\WebAPIConsoleClient.dll
+D:\HitachiDemos\WebApplication1\WebAPIConsoleClient\obj\Debug\net8.0\WebAPIConsoleClient.pdb
+D:\HitachiDemos\WebApplication1\WebAPIConsoleClient\obj\Debug\net8.0\WebAPIConsoleClient.genruntimeconfig.cache
+D:\HitachiDemos\WebApplication1\WebAPIConsoleClient\obj\Debug\net8.0\ref\WebAPIConsoleClient.dll

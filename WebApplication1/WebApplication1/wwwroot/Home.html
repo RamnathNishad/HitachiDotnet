@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script>
+        function getEmps() {
+            //call the api method
+            var baseUrl = "http://localhost:5162/api/Employees/GetEmps";
+
+            fetch(baseUrl)
+                .then(response => response.json())
+                .then(data => {
+                    //display the data in the page
+                    console.log(data);
+
+                    var ele = "<table border=4 width=60%>";
+                    ele += "<tr><th>Ecode</th><th>Ename</th><th>Salary</th><th>Deptid</th></tr>";
+
+                    for (var i = 0; i < data.length; i++) {
+                        ele += "<tr><td>" + data[i].ecode + "</td>";
+                        ele += "<td>" + data[i].ename + "</td>";
+                        ele += "<td>" + data[i].salary + "</td>";
+                        ele += "<td>" + data[i].deptid + "</td></tr>";
+                    }
+                    ele += "</table>";
+
+                    document.getElementById("d1").innerHTML = ele;
+                })
+        }
+    </script>
+</head>
+<body>
+    <h1>Consuming WEB API using JavaScript</h1><hr/>
+
+    <input type="button" value="Get emps" onclick="getEmps()" />
+    <div id="d1"></div>
+</body>
+</html>
