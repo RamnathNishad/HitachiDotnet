@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InterfacePolymorphism")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01c567f60a7b625c239f11c8ab4bdba691b2f75d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f68455f0f0c16fe41d8debc414de0bfd71d95c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("InterfacePolymorphism")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InterfacePolymorphism")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

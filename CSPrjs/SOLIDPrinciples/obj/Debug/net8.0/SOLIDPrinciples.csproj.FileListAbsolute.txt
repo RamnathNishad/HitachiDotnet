@@ -1,0 +1,15 @@
+D:\HitachiDemos\HitachiDotnet\CSPrjs\SOLIDPrinciples\bin\Debug\net8.0\SOLIDPrinciples.exe
+D:\HitachiDemos\HitachiDotnet\CSPrjs\SOLIDPrinciples\bin\Debug\net8.0\SOLIDPrinciples.deps.json
+D:\HitachiDemos\HitachiDotnet\CSPrjs\SOLIDPrinciples\bin\Debug\net8.0\SOLIDPrinciples.runtimeconfig.json
+D:\HitachiDemos\HitachiDotnet\CSPrjs\SOLIDPrinciples\bin\Debug\net8.0\SOLIDPrinciples.dll
+D:\HitachiDemos\HitachiDotnet\CSPrjs\SOLIDPrinciples\bin\Debug\net8.0\SOLIDPrinciples.pdb
+D:\HitachiDemos\HitachiDotnet\CSPrjs\SOLIDPrinciples\obj\Debug\net8.0\SOLIDPrinciples.GeneratedMSBuildEditorConfig.editorconfig
+D:\HitachiDemos\HitachiDotnet\CSPrjs\SOLIDPrinciples\obj\Debug\net8.0\SOLIDPrinciples.AssemblyInfoInputs.cache
+D:\HitachiDemos\HitachiDotnet\CSPrjs\SOLIDPrinciples\obj\Debug\net8.0\SOLIDPrinciples.AssemblyInfo.cs
+D:\HitachiDemos\HitachiDotnet\CSPrjs\SOLIDPrinciples\obj\Debug\net8.0\SOLIDPrinciples.csproj.CoreCompileInputs.cache
+D:\HitachiDemos\HitachiDotnet\CSPrjs\SOLIDPrinciples\obj\Debug\net8.0\SOLIDPrinciples.sourcelink.json
+D:\HitachiDemos\HitachiDotnet\CSPrjs\SOLIDPrinciples\obj\Debug\net8.0\SOLIDPrinciples.dll
+D:\HitachiDemos\HitachiDotnet\CSPrjs\SOLIDPrinciples\obj\Debug\net8.0\refint\SOLIDPrinciples.dll
+D:\HitachiDemos\HitachiDotnet\CSPrjs\SOLIDPrinciples\obj\Debug\net8.0\SOLIDPrinciples.pdb
+D:\HitachiDemos\HitachiDotnet\CSPrjs\SOLIDPrinciples\obj\Debug\net8.0\SOLIDPrinciples.genruntimeconfig.cache
+D:\HitachiDemos\HitachiDotnet\CSPrjs\SOLIDPrinciples\obj\Debug\net8.0\ref\SOLIDPrinciples.dll

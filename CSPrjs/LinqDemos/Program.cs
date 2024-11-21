@@ -6,6 +6,15 @@ namespace LinqDemos
     {
         static void Main(string[] args)
         {
+            //dynamic v = 100;
+            //Console.WriteLine(v);
+
+            //v = "Hello"; //allowed
+            //Console.WriteLine(v.Length);
+
+           // var a = 100;
+           // a = "Hello"; //not allowed
+
             var lstEmps = Employee.GetEmps();
             var lstDept = Department.GetDepts();
 

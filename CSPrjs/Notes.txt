@@ -120,6 +120,138 @@ event-handling or notifications in asynchronouse execution model.
  1) using extension methods:-  
  2) using operators:-select, from , and, where etc
 
+ ================SOLID Principles=================
+ 1) S-->SRP : Single Responsibility Principle
+ A method or a class must be responsible for only one task.
+
+
+ 2) O--->Open/Closed Principle:- a class should be opened for 
+ extension but closed for modifications.
+
+ ----Customer----Regular(10% discount),Gold(20%),Silver(15%)
+ if customer types are added more then it will require code to be
+ modified to accomodate new type of customers.
+
+ 3) L---->Liskov Substitution Principle:- Objects of a base class 
+ should replaceable with objects of derived without altering the
+ base class features.
+	a subclass should not remove the features of its base class 
+	rather it shud extends base class features.
+
+	class Hyudai
+	{
+		int maxSpeed;
+	}
+
+	class HyundaiPlus : Hyudai
+	{
+		int maxSpeed;
+	}
+
+4) I----->Interface Seggregation Principle
+
+Employee
+
+interface IEmployee
+{
+  void Register();
+}
+
+interface IManager : IEmployee
+{
+  void DesignProject();
+  void SetTarget();
+}
+interface IAccountant : IEmployee
+{
+	void TaxFiling();
+}
+
+
+Manager----DesignProject,SetTarget
+Accountant---TaxFiling
+
+class Manager :IManager
+{
+	public void DesignTarget(){}
+	public void SetTarget(){}
+}
+class Accountant : IAccountant
+{
+	public void TaxFiling(){}
+}
+
+D---->Dependency Principle
+-High level modules should not depend on low-level modules directly.
+Both should depend on abstractions.
+-Abstraction should not depend on details.
+-Details should depend on abstraction
+
+Design Patterns:-
+1) SingleTon pattern:-  Only one instance of an object is created
+throughout the application.
+
+2) Factory pattern:- based of the information provided, different types
+of objects are created using factory pattern(open/closed principle used above)
+
+3) Adapter pattern:- If u want to communicate between two incompatible
+types, we use this pattern using an Adapter interface.
+It is more of tranlator between two different types.
+
+Type1--------Adapter interface(type2 fn)----Type2(fn)
+
+4) Facade pattern:- If there is a complex interface is there, we
+can use facade pattern to have a simplified interface to communicate 
+the object.
+e.g. OS low level complex interface is used using a facade simple
+interface by shell command prompt.
+
+
+5) Flyweight pattern:- It works on caching the object with common
+features which may be needed at multiple places.
+
+object----f1,f2,f3 (char with some font,style,color)
+
+6) Proxy pattern:- it is used in web service communication where
+client feels that it is using service directly but infact local proxy
+instance is used. Target object is communicated through proxy.
+
+7) Decorator pattern:- If multiple similar functionalities are 
+needed for more than one type of object, then instead of redfining 
+again and agin in all types, we can create a decorator type in the
+main type only once.
+
+class Decorator
+{
+//F1
+//F2
+//F3
+}
+classA
+{
+	//Decorator 
+}
+classB
+{
+ //Decorator
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
