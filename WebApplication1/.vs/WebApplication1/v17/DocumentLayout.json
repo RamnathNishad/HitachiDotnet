@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "D:\\HitachiDemos\\WebApplication1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{35B86FDE-EBF0-4EAC-B559-8B0336C4E632}|CalculatorUnitTestProject\\CalculatorUnitTestProject.csproj|d:\\hitachidemos\\webapplication1\\calculatorunittestproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B86FDE-EBF0-4EAC-B559-8B0336C4E632}|CalculatorUnitTestProject\\CalculatorUnitTestProject.csproj|solutionrelative:calculatorunittestproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04BFB15D-F745-4C39-82D6-F69AB7E3FCAA}|CalculatorAPI\\CalculatorAPI.csproj|d:\\hitachidemos\\webapplication1\\calculatorapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04BFB15D-F745-4C39-82D6-F69AB7E3FCAA}|CalculatorAPI\\CalculatorAPI.csproj|solutionrelative:calculatorapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04BFB15D-F745-4C39-82D6-F69AB7E3FCAA}|CalculatorAPI\\CalculatorAPI.csproj|d:\\hitachidemos\\webapplication1\\calculatorapi\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04BFB15D-F745-4C39-82D6-F69AB7E3FCAA}|CalculatorAPI\\CalculatorAPI.csproj|solutionrelative:calculatorapi\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04BFB15D-F745-4C39-82D6-F69AB7E3FCAA}|CalculatorAPI\\CalculatorAPI.csproj|d:\\hitachidemos\\webapplication1\\calculatorapi\\models\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04BFB15D-F745-4C39-82D6-F69AB7E3FCAA}|CalculatorAPI\\CalculatorAPI.csproj|solutionrelative:calculatorapi\\models\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BA156D63-96E7-4C99-9E25-8C24B225BB1E}|Solution Items{BA156D63-96E7-4C99-9E25-8C24B225BB1E}|D:\\HitachiDemos\\WebApplication1\\NotesASP.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{BA156D63-96E7-4C99-9E25-8C24B225BB1E}|Solution Items{BA156D63-96E7-4C99-9E25-8C24B225BB1E}|solutionrelative:NotesASP.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D998B5F7-9CB4-47BE-A912-071B14FBF270}|WebAPIConsoleClient\\WebAPIConsoleClient.csproj|d:\\hitachidemos\\webapplication1\\webapiconsoleclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D998B5F7-9CB4-47BE-A912-071B14FBF270}|WebAPIConsoleClient\\WebAPIConsoleClient.csproj|solutionrelative:webapiconsoleclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8936F907-DE96-4F09-9988-ACB28371A678}|WebApplication1\\WebApplication1.csproj|d:\\hitachidemos\\webapplication1\\webapplication1\\wwwroot\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8936F907-DE96-4F09-9988-ACB28371A678}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D21127C9-9574-458D-9A63-A582DF622E7A}|EmployeeService\\EmployeeService.csproj|d:\\hitachidemos\\webapplication1\\employeeservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D21127C9-9574-458D-9A63-A582DF622E7A}|EmployeeService\\EmployeeService.csproj|solutionrelative:employeeservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{04BFB15D-F745-4C39-82D6-F69AB7E3FCAA}|CalculatorAPI\\CalculatorAPI.csproj|d:\\hitachidemos\\webapplication1\\calculatorapi\\models\\icalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04BFB15D-F745-4C39-82D6-F69AB7E3FCAA}|CalculatorAPI\\CalculatorAPI.csproj|solutionrelative:calculatorapi\\models\\icalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,54 +42,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\HitachiDemos\\WebApplication1\\WebAPIConsoleClient\\Program.cs",
-              "RelativeDocumentMoniker": "WebAPIConsoleClient\\Program.cs",
-              "ToolTip": "D:\\HitachiDemos\\WebApplication1\\WebAPIConsoleClient\\Program.cs",
-              "RelativeToolTip": "WebAPIConsoleClient\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAowA0AAAANAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\HitachiDemos\\WebApplication1\\CalculatorUnitTestProject\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "CalculatorUnitTestProject\\UnitTest1.cs",
+              "ToolTip": "D:\\HitachiDemos\\WebApplication1\\CalculatorUnitTestProject\\UnitTest1.cs",
+              "RelativeToolTip": "CalculatorUnitTestProject\\UnitTest1.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAArwFgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T11:23:31.928Z",
+              "WhenOpened": "2024-11-22T11:30:02.436Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Home.html",
-              "DocumentMoniker": "D:\\HitachiDemos\\WebApplication1\\WebApplication1\\wwwroot\\Home.html",
-              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\Home.html",
-              "ToolTip": "D:\\HitachiDemos\\WebApplication1\\WebApplication1\\wwwroot\\Home.html",
-              "RelativeToolTip": "WebApplication1\\wwwroot\\Home.html",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAcwA0AAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-11-21T10:44:11.972Z",
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "D:\\HitachiDemos\\WebApplication1\\CalculatorAPI\\Controllers\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "CalculatorAPI\\Controllers\\CalculatorController.cs",
+              "ToolTip": "D:\\HitachiDemos\\WebApplication1\\CalculatorAPI\\Controllers\\CalculatorController.cs",
+              "RelativeToolTip": "CalculatorAPI\\Controllers\\CalculatorController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAywBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T11:21:23.958Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NotesASP.txt",
-              "DocumentMoniker": "D:\\HitachiDemos\\WebApplication1\\NotesASP.txt",
-              "RelativeDocumentMoniker": "NotesASP.txt",
-              "ToolTip": "D:\\HitachiDemos\\WebApplication1\\NotesASP.txt",
-              "RelativeToolTip": "NotesASP.txt",
-              "ViewState": "AgIAAPIAAAAAAAAAAAAywP0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-11-21T10:00:01.609Z",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HitachiDemos\\WebApplication1\\CalculatorAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CalculatorAPI\\Program.cs",
+              "ToolTip": "D:\\HitachiDemos\\WebApplication1\\CalculatorAPI\\Program.cs",
+              "RelativeToolTip": "CalculatorAPI\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAywBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T11:19:42.127Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\HitachiDemos\\WebApplication1\\EmployeeService\\Program.cs",
-              "RelativeDocumentMoniker": "EmployeeService\\Program.cs",
-              "ToolTip": "D:\\HitachiDemos\\WebApplication1\\EmployeeService\\Program.cs",
-              "RelativeToolTip": "EmployeeService\\Program.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAywEYAAAAPAAAAAAAAAA==",
+              "Title": "CalculatorService.cs",
+              "DocumentMoniker": "D:\\HitachiDemos\\WebApplication1\\CalculatorAPI\\Models\\CalculatorService.cs",
+              "RelativeDocumentMoniker": "CalculatorAPI\\Models\\CalculatorService.cs",
+              "ToolTip": "D:\\HitachiDemos\\WebApplication1\\CalculatorAPI\\Models\\CalculatorService.cs",
+              "RelativeToolTip": "CalculatorAPI\\Models\\CalculatorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T09:56:14.708Z",
+              "WhenOpened": "2024-11-22T11:17:11.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICalculatorService.cs",
+              "DocumentMoniker": "D:\\HitachiDemos\\WebApplication1\\CalculatorAPI\\Models\\ICalculatorService.cs",
+              "RelativeDocumentMoniker": "CalculatorAPI\\Models\\ICalculatorService.cs",
+              "ToolTip": "D:\\HitachiDemos\\WebApplication1\\CalculatorAPI\\Models\\ICalculatorService.cs",
+              "RelativeToolTip": "CalculatorAPI\\Models\\ICalculatorService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAIBAwAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T11:16:06.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotesASP.txt",
+              "DocumentMoniker": "D:\\HitachiDemos\\WebApplication1\\NotesASP.txt",
+              "RelativeDocumentMoniker": "NotesASP.txt",
+              "ToolTip": "D:\\HitachiDemos\\WebApplication1\\NotesASP.txt",
+              "RelativeToolTip": "NotesASP.txt",
+              "ViewState": "AgIAAEABAAAAAAAAAAAywEoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-21T10:00:01.609Z",
               "EditorCaption": ""
             }
           ]

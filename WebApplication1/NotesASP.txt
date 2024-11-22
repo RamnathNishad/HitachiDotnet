@@ -253,4 +253,141 @@ using (var client=new HttpClient())
 }
 
 
+==============Integration with Azure================
+-Azure subscription:(free later pay-as-u-go)
+Resource groups: All the services like storage,compute, network etc 
+must be under some resource group.
+Resource groups------>Azure subscription
+User----Subscriptions----->Resource groups---->Services
+
+1) Creating Azure Sql Server Database
+-create subsription (use if aleardy there)
+-create resource group
+-create sql server and database with all the details credentials
+-enable remote access to be connected from clients like Visual Studio
+or SSMS
+
+2) Using the Sql Database in our web application with EF Core
+	-we need connection string of the azure sql database
+	-use and configure it in the .net application
+	-add and run migrations as per DbContext and Models
+Local Web API----->EF Core---->Azure Sql Database---->Table
+
+3) To deploy Web app on Azure app service
+a) Create web app service in Azure and deploy from visual studio
+
+b) Directly from Visual Studio, we can publish to create web app
+serives automatically and deploy web app(api)
+
+Azure Web App(API)----->EF Core---->Azure Sql Database---->Table
+
+4) Creating Web App service from Azure portal and the deploy ur
+web application onto this from Visual Studio
+
+
+Azure DevOps Pipeline:- CI/CD:
+a) Continuous integration is the process of building the application 
+through various stages like compiling, restoring,testing and making
+the artifacts(.zip) ready for deployment.
+
+So whenever code is modified and pushed to the repository(Azure Repo)
+it will trigger the CI pipeline process using an agent.
+
+b) Continous deployment:- once artifacts from CI pipeline output, 
+release pipeline is triggered and deployment is done.
+
+
+to configure these CI/CD pipeline in Azure DevOps:
+	dev.azure.com
+
+
+==================xUnit==========
+-Microsoft free open source unit testing tool.
+
+Available attributes:-	
+1) [Fact]:- If we want a method to be part of unit testing, it 
+should be decorated with this.
+
+2) [Theory]:- If we want to send some parameters to the test method
+
+3) [InlineData]:- Used along with [Theory] attribute. This is a way
+to provide parameters to the test method
+
+Note:- Test method must be public and naming conventions shud be
+properly followed to have self-explainatory
+  Methodname_StateUnderTest
+	e.g. Is_Person_Eligilble_Test
+
+for any test case, we have 3 stages:-
+A---Arrange( all the details and data needed for testing)
+A---Act (Run the method with data arranged)
+A---Assert (Analyse the expected and actual output)
+
+Demo:
+1)create a Calculator service class and configure dependency injection
+2)create WEB API service and inject calculator service for its
+add,subtract,multiply and divide methods
+3) create xUnit project to test the calculator service
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

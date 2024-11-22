@@ -1,0 +1,126 @@
+[
+  {
+    "ContainingType": "CalculatorAPI.Controllers.CalculatorController",
+    "Method": "Add",
+    "RelativePath": "api/Calculator/Add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "n1",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "n2",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CalculatorAPI.Controllers.CalculatorController",
+    "Method": "Divide",
+    "RelativePath": "api/Calculator/Divide",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "n1",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "n2",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CalculatorAPI.Controllers.CalculatorController",
+    "Method": "Multiply",
+    "RelativePath": "api/Calculator/Multiply",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "n1",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "n2",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CalculatorAPI.Controllers.CalculatorController",
+    "Method": "Subtract",
+    "RelativePath": "api/Calculator/Subtract",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "n1",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "n2",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
